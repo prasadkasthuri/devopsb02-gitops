@@ -13,7 +13,7 @@ spec:
         app: supermariogame
     spec:
       containers:
-      - image: prasadkasthuri/devopsb02-mario:1
+      - image: prasadkasthuri/devopsb02-mario:101
         name: supermariogame-container
         ports:
         - containerPort: 8080
